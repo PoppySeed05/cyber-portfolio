@@ -1,7 +1,7 @@
-# Cyber Operations Portfolio
+# Cyber Portfolio
 
 ## Overview
-This repository demonstrates foundational Cyber Operations skills across Identity and Access Management (IAM), Risk Management, System Security Operations, and Governance (GRC).
+This repository demonstrates foundational Cyber skills across multiple difference domains.
 
 ## Focus Areas
 - Identity and Access Management (IAM)
